@@ -30,7 +30,7 @@ The workshop will be based on data analysis/bioinformatics for year 11-12 studen
 
 **Time:**
 
-Session room prep time: 10.00-12.00
+Session room prep time: 08:00-9:45 
 
 Session delivery time: 10.00-12.00
 
