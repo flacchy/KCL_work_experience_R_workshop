@@ -40,4 +40,5 @@ The coding session will be delivered  in the computer room at Guy's New Hunts Ho
 
 ----------------------------------------
 
+Visit the [Wiki page](https://github.com/flacchy/KCL_work_experience_R_workshop/wiki) for all the material
 
