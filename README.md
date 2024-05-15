@@ -20,25 +20,33 @@ Why R?
 
 **Details**
 
-Jia Dai, Flavia Flaviani and Alicia Hadingham are participanting in a work experience with KCL - Women's and Children Heath Department. 
-
+Jia Dai, Flavia Flaviani and Fewa Laleye are participanting in a work experience with KCL - Women's and Children Heath Department. 
 The workshop will be based on data analysis/bioinformatics for year 11-12 students coming to the department for work experience.
 
 **Date:**
 
-14th of July 2022 
+8th of July 2024 
 
 **Time:**
 
-Session room prep time: 08:00-9:45 
+Session room prep time: TBD
 
-Session delivery time: 10.00-12.00
+Session delivery time: TBD
 
 
 
-The coding session will be delivered  in the computer room at Guy's New Hunts House G.10 (SCR) 
+The coding session will be delivered  in: TBD  
+
+
+---------------------------------------
+Previous sessions 
+
+**Date:** 14th of July 2022 
+**Details:** Jia Dai, Flavia Flaviani and Alicia Hadingham are participanting in a work experience with KCL - Women's and Children Heath Department. 
+
 
 ----------------------------------------
 
 Visit the [Wiki page](https://github.com/flacchy/KCL_work_experience_R_workshop/wiki) for all the material
+
 
