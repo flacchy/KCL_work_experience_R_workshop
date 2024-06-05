@@ -29,7 +29,7 @@ The workshop will be based on data analysis/bioinformatics for year 11-12 studen
 
 **Time:**
 
-Session delivery time: 1400-2600
+Session delivery time: 14:00-16:00
 
 ---------------------------------------
 Previous sessions 
