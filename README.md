@@ -20,7 +20,7 @@ Why R?
 
 **Details**
 
-Jia Dai, Amy Roberts Flavia Flaviani, and Fewa Laleye are participanting in a work experience with the School of Life Course and Population Sciences. 
+Jiadai Mi, Amy Roberts, Flavia Flaviani, and Fewa Laleye are participanting in a work experience with the School of Life Course and Population Sciences. 
 The workshop will be based on data analysis/bioinformatics for year 11-12 students visiting King's College London for work experience.
 
 **Date:**
