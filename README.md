@@ -20,8 +20,8 @@ Why R?
 
 **Details**
 
-Jia Dai, Flavia Flaviani and Fewa Laleye are participanting in a work experience with KCL - Women's and Children Heath Department. 
-The workshop will be based on data analysis/bioinformatics for year 11-12 students coming to the department for work experience.
+Jia Dai, Amy Roberts Flavia Flaviani, and Fewa Laleye are participanting in a work experience with the School of Life Course and Population Sciences. 
+The workshop will be based on data analysis/bioinformatics for year 11-12 students visiting King's College London for work experience.
 
 **Date:**
 
@@ -29,21 +29,13 @@ The workshop will be based on data analysis/bioinformatics for year 11-12 studen
 
 **Time:**
 
-Session room prep time: TBD
-
-Session delivery time: TBD
-
-
-
-The coding session will be delivered  in: TBD  
-
+Session delivery time: 1400-2600
 
 ---------------------------------------
 Previous sessions 
 
 **Date:** 14th of July 2022 
 **Details:** Jia Dai, Flavia Flaviani and Alicia Hadingham are participanting in a work experience with KCL - Women's and Children Heath Department. 
-
 
 ----------------------------------------
 
